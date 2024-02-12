@@ -1,0 +1,8 @@
+prefix=/home/ahmed/projects/autonomous-Car/project_WS/autonomous-car/devel
+
+Name: car_design
+Description: Description of car_design
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

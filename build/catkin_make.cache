@@ -1,0 +1,2 @@
+car_design
+-DCATKIN_DEVEL_PREFIX=/home/ahmed/projects/autonomous-Car/project_WS/autonomous-car/devel -DCMAKE_INSTALL_PREFIX=/home/ahmed/projects/autonomous-Car/project_WS/autonomous-car/install -G Unix Makefiles
